@@ -1,7 +1,7 @@
 # Gemini Pro Streamlit Chatbot – Project Overview
 
 ## 📌 About the Project
-#### Gemini Pro Streamlit Chatbot is an AI-powered chatbot built using Google’s Gemini Pro model and deployed with Streamlit. It provides real-time responses to user queries by leveraging advanced natural language processing (NLP) capabilities.
+### Gemini Pro Streamlit Chatbot is an AI-powered chatbot built using Google’s Gemini Pro model and deployed with Streamlit. It provides real-time responses to user queries by leveraging advanced natural language processing (NLP) capabilities.
 
 ## 🚀 Features
 #### ✅ Conversational AI powered by Gemini Pro
@@ -21,7 +21,7 @@
 #### The AI generates a response and displays it in the chat interface.
 
 ## 🎯 Use Cases
-####🔹 Personal AI Assistant
-####🔹 Educational Queries
-####🔹 Information Retrieval
-####🔹 Customer Support Simulation
+#### 1. Personal AI Assistant
+#### 2. Educational Queries
+#### 3. Information Retrieval
+#### 4. Customer Support Simulation
