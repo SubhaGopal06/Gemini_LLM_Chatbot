@@ -10,7 +10,7 @@ load_dotenv()
 st.set_page_config(
     page_title = "Chat with Gemini!",
     page_icon = ":brain:", 
-    layout = "Centered"
+    layout = "centered"
 )
 
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
